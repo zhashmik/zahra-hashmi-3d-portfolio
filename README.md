@@ -1,8 +1,20 @@
-# Getting Started with Create React App
+# 3D Portfolio Website (React.js, Three.js, JavaScript)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed on [GitHub Pages](https://zhashmik.github.io/zahra-hashmi-3d-portfolio/) | [GitHub Repository](https://github.com/zhashmik/zahra-hashmi-3d-portfolio)
 
-## Available Scripts
+A dynamic, interactive 3D portfolio website built using **React.js** and **Three.js**, showcasing a combination of smooth animations, responsive design, and stunning 3D visuals. This project highlights my web development skills, including React components, Three.js for 3D rendering, and JavaScript for seamless functionality. The site is designed to be fully responsive, offering an engaging experience across all devices, and is hosted on GitHub Pages for easy access.
+
+You can explore my live portfolio at:  https://zhashmik.github.io/zahra-hashmi-3d-portfolio
+
+---
+
+## Features
+- **3D Visuals**: Stunning 3D animations and interactive elements powered by **Three.js**.
+- **Responsive Design**: Optimized for a seamless experience on both desktop and mobile devices.
+- **Interactive Portfolio**: Includes dynamic sections such as projects, certifications, and a contact form.
+- **GitHub Pages Deployment**: The portfolio is deployed and live on GitHub Pages, providing easy access to potential employers and collaborators.
+
+---
 
 In the project directory, you can run:
 
