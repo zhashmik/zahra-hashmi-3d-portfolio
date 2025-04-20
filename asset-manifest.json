@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zahra-hashmi-3d-portfolio/static/css/main.31c76f5c.css",
-    "main.js": "/zahra-hashmi-3d-portfolio/static/js/main.d669f5f2.js",
+    "main.js": "/zahra-hashmi-3d-portfolio/static/js/main.28875bed.js",
     "static/media/PIC.png": "/zahra-hashmi-3d-portfolio/static/media/PIC.611ab77cddaab24f44db.png",
     "index.html": "/zahra-hashmi-3d-portfolio/index.html",
     "main.31c76f5c.css.map": "/zahra-hashmi-3d-portfolio/static/css/main.31c76f5c.css.map",
-    "main.d669f5f2.js.map": "/zahra-hashmi-3d-portfolio/static/js/main.d669f5f2.js.map"
+    "main.28875bed.js.map": "/zahra-hashmi-3d-portfolio/static/js/main.28875bed.js.map"
   },
   "entrypoints": [
     "static/css/main.31c76f5c.css",
-    "static/js/main.d669f5f2.js"
+    "static/js/main.28875bed.js"
   ]
 }
