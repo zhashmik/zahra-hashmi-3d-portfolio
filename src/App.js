@@ -11,6 +11,7 @@ import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
 import Certifications from "./components/sections/Certifications";
+import { Helmet } from 'react-helmet';
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -39,6 +40,10 @@ function App() {
   return (
     <ThemeProvider theme={darkTheme}>
       <BrowserRouter>
+      <Helmet>
+          <title>Zahra Hashmi Portfolio</title>
+        </Helmet>
+
         <Navbar />
         <Body>
           <StartCanvas />
