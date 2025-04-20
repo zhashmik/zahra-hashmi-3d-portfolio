@@ -134,7 +134,9 @@ const Navbar = () => {
           <NavLink href="#Skills">Skills</NavLink>
           <NavLink href="#Experience">Experience</NavLink>
           <NavLink href="#Projects">Projects</NavLink>
+          <NavLink href="#Certifications">Certification</NavLink>
           <NavLink href="#Education">Education</NavLink>
+          
         </NavItems>
 
         {isOpen && (
@@ -152,6 +154,9 @@ const Navbar = () => {
               Projects
             </NavLink>
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Education">
+              Education
+            </NavLink>
+            <NavLink onClick={() => setIsOpen(!isOpen)} href="#Certification">
               Education
             </NavLink>
             <SocialButton
